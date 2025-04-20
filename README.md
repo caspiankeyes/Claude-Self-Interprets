@@ -1,4 +1,4 @@
-# **`self interpret logs`**
+# **`Claude Self Interprets`**
 
 ## [Symbolic Residue MLP Swap Stability](https://claude.site/artifacts/b1a95b95-1852-49c2-8d8a-2343b756367f)
 
