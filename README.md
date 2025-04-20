@@ -1,5 +1,7 @@
 # **`Claude Self Interprets`**
 
+# Haiku: 
+
 ## [Symbolic Residue MLP Swap Stability](https://claude.site/artifacts/b1a95b95-1852-49c2-8d8a-2343b756367f)
 
 <img width="887" alt="image" src="https://github.com/user-attachments/assets/d947e0b9-fae9-477c-8b8c-8c380942df56" />
